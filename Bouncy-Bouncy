@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bouncing Ball Animation</title>
+    <style>
+      /* CSS code here */
+    </style>
+  </head>
+  <body>
+    <div class="ball"></div>
+  </body>
+</html>
