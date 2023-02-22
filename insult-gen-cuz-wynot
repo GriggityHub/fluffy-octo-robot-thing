@@ -1,0 +1,11 @@
+import random
+
+adjectives = ["stupid", "lazy", "ugly", "incompetent", "boring"]
+nouns = ["moron", "slob", "fugly", "idiot", "yawn"]
+
+print("Welcome to the Insult Generator!")
+while True:
+    input("Press Enter to generate a new insult!")
+    adjective = random.choice(adjectives)
+    noun = random.choice(nouns)
+    print(f"You {adjective} {noun}!")
